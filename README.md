@@ -1,5 +1,5 @@
 # Machine-Learning-
-In this repo I create a various Machine learning algorithms models on various datasets
+In this repo I working on a various Machine learning algorithms models on various datasets
 
 Linear Regression
 
