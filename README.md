@@ -51,7 +51,7 @@ This project is licensed under the License - see the [LICENSE.md](LICENSE.md) fi
 
 ## Various Machine Algorithms: 
 
-* <i> <font color= "pink"> Linear Regression </font> </i>
+* Linear Regression 
 
 * Logistic Regression
 
