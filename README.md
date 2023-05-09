@@ -49,22 +49,22 @@ If you would like to contribute to this project, please fork the repository and 
 
 This project is licensed under the License - see the [LICENSE.md](LICENSE.md) file for details.
 
-## Various Machine Algoriths: 
+## Various Machine Algorithms: 
 
-Linear Regression
+* <i><font color= "Pink"> Linear Regression <font/> </i>
 
-Logistic Regression
+* Logistic Regression
 
-Decision Tree
+* Decision Tree
 
-SVM
+* SVM
 
-Naive Bayes
+* Naive Bayes
 
-kNN
+* kNN
 
-K-Means
+* K-Means
 
-Random Forest
+* Random Forest
 
-Dimensionality Reduction Algorithms
+* Dimensionality Reduction Algorithms
