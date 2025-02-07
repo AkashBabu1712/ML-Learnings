@@ -10,7 +10,7 @@ ML Project Process:
 -->directory name:
 -->code .
 
-4. then VS code is open --> open terminal --> conda create -p venv python==3.11.5(current version) --> conda activate venv/
+4. then VS code is open --> open terminal --> conda create -p venv python==3.11.5(current version) -y --> conda activate venv/
 
 5. now link github repo to vs code --> git init and create readme.md file
 
